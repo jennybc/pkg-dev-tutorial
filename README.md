@@ -2,7 +2,7 @@
 
 Agenda for:
 
-  * Package development tutorial
+  * Package Development tutorial
   * July 9 2019, [useR! 2019](https://user2019.r-project.org/) tutorial day,
     Toulouse, France
 
@@ -10,11 +10,11 @@ Agenda for:
 
 ## Pre-work
 
-Recommended pre-workshop prep = [Prepare your system]() section from the R Packages book
+Recommended pre-workshop prep = [Prepare your system](https://r-pkgs.org/intro.html#intro-prep) section from the R Packages book
 
   * If attempting prep in real-time, this *might* be enough:
     ``` r
-    install.packages(c("devtools", "roxygen2", "testthat", "knitr"))
+    install.packages(c("devtools", "roxygen2", "testthat", "covr", "knitr"))
     ```
 
 ## Agenda
@@ -27,16 +27,16 @@ Documentation *Hadley Wickham*
 
 ## Instructors
 
-  * Jenny Bryan [jennybryan.org](https://jennybryan.org) \| Github [jennybc](https://github.com/jennybc) \| Twitter [jennybryan](https://twitter.com/jennybryan)
-  * Jim Hester [jimhester.com](https://www.jimhester.com) \| Github [jimhester](https://github.com/jimhester) \| Twitter [jimhester_](https://twitter.com/jimhester_)
-  * Hadley Wickahm [HADLEY WEBSITE](https://???) \| Github [hadley](https://github.com/hadley) \| Twitter [hadleywickham](https://twitter.com/hadleywickahm) *FIX THIS*
+  * Jenny Bryan [jennybryan.org](https://jennybryan.org) \| GitHub [jennybc](https://github.com/jennybc) \| Twitter [jennybryan](https://twitter.com/jennybryan)
+  * Jim Hester [jimhester.com](https://www.jimhester.com) \| GitHub [jimhester](https://github.com/jimhester) \| Twitter [jimhester_](https://twitter.com/jimhester_)
+  * Hadley Wickham [hadley.nz](http://hadley.nz) \| GitHub [hadley](https://github.com/hadley) \| Twitter [hadleywickham](https://twitter.com/hadleywickahm)
 
 ## Feedback and communication
 
 *will we do gitter?*
-<https://gitter.im/what-they-forgot/wtf-2019-rsc> is our chat room. Good for live chat during the workshop. Feel free to ignore if you are overstimulated already.
+<https://gitter.im/OWNER/REPO> is our chat room. Good for live chat during the workshop. Feel free to ignore if you are overstimulated already.
 
-[Issues](https://github.com/OWNER/pkg-dev-tutorial/issues) <-- all are encouraged to open issues as we go. This is actually tremendously helpful to us! Examples of issue-worthy thoughts:
+[Issues](https://github.com/jennybc/pkg-dev-tutorial/issues) <-- all are encouraged to open issues as we go. This is actually tremendously helpful to us! Examples of issue-worthy thoughts:
 
   * Glitches in the instructions or materials that we need to fix, for current tutorial or future
   * Missing content that we identify
