@@ -33,9 +33,6 @@ Documentation *Hadley Wickham*
 
 ## Feedback and communication
 
-*will we do gitter?*
-<https://gitter.im/OWNER/REPO> is our chat room. Good for live chat during the workshop. Feel free to ignore if you are overstimulated already.
-
 [Issues](https://github.com/jennybc/pkg-dev-tutorial/issues) <-- all are encouraged to open issues as we go. This is actually tremendously helpful to us! Examples of issue-worthy thoughts:
 
   * Glitches in the instructions or materials that we need to fix, for current tutorial or future
