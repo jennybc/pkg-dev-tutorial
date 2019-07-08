@@ -19,7 +19,7 @@ Recommended pre-workshop prep = [Prepare your system](https://r-pkgs.org/intro.h
 
 ## Agenda
 
-Intro & basic package workflow *Jenny Bryan*
+Intro & basic package workflow *Jenny Bryan* - [slides](intro-basic-workflow.pdf)
 
 Testing *Jim Hester* - [slides](testing.pdf)
 
