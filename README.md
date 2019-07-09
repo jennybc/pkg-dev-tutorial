@@ -23,7 +23,7 @@ Intro & basic package workflow *Jenny Bryan* - [slides](intro-basic-workflow.pdf
 
 Testing *Jim Hester* - [slides](testing.pdf)
 
-Documentation *Hadley Wickham*
+Documentation *Hadley Wickham* - [slides](document-share.pdf)
 
 ## Instructors
 
