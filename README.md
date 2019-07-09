@@ -19,11 +19,18 @@ Recommended pre-workshop prep = [Prepare your system](https://r-pkgs.org/intro.h
 
 ## Agenda
 
-Intro & basic package workflow *Jenny Bryan* - [slides](intro-basic-workflow.pdf)
+Intro & basic package workflow *Jenny Bryan*
+
+  * [slides](intro-basic-workflow.pdf)
+  * [foofactors2](https://github.com/jennybc/foofactors2) *what I made live*
+  * [foofactors](https://github.com/jennybc/foofactors) *more fully developed version of this example*
 
 Testing *Jim Hester* - [slides](testing.pdf)
 
-Documentation *Hadley Wickham* - [slides](document-share.pdf)
+Documentation *Hadley Wickham*
+
+  * [slides](document-share.pdf)
+  * `usethis::use_course("hadley/fordogs")`
 
 ## Instructors
 
