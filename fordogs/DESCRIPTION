@@ -1,0 +1,17 @@
+Package: fordogs
+Title: Make Factors Less Aggravating
+Version: 0.0.0.9000
+Authors@R:
+    person("Jane", "Doe", email = "jane@example.com", role = c("aut", "cre"))
+Description: Factors have driven people to extreme measures, like ordering
+    custom conference ribbons and laptop stickers to express how HELLNO we
+    feel about stringsAsFactors. And yet, sometimes you need them. Can they
+    be made less maddening? Let's find out.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    testthat (>= 2.1.0)
+Imports: 
+    forcats
