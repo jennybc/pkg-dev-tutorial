@@ -1,4 +1,4 @@
 library(testthat)
-library(foofactors)
+library(fordogs)
 
-test_check("foofactors")
+test_check("fordogs")
