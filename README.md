@@ -2,9 +2,9 @@
 
 (Adapted from a [joint tutorial](https://rstd.io/pkg-dev) taught by Jenny Bryan, Jim Hester, and Hadley Wickham)
 
-## Pre-work
+## Setup
 
-Recommended pre-workshop prep = [Prepare your system](https://r-pkgs.org/intro.html#intro-prep) section from the R Packages book
+Essentials:
 
 ```{r}
 install.packages(c(
@@ -13,6 +13,8 @@ install.packages(c(
 ))
 usethis::use_course("http://bit.ly/30kL8QD")
 ```
+
+For further pacakge development, I recommend [_Prepare your system_](https://r-pkgs.org/intro.html#intro-prep) from R Packages.
 
 ## Agenda
 
