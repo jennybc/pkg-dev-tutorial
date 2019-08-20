@@ -1,46 +1,34 @@
-# [rstd.io/pkg-dev](https://rstd.io/pkg-dev)
+# Package development tutorial
 
-Agenda for:
-
-  * Package Development tutorial
-  * July 9 2019, [useR! 2019](https://user2019.r-project.org/) tutorial day,
-    Toulouse, France
-
-[rstd.io/pkg-dev](https://rstd.io/pkg-dev) <-- The One True URL that links to everything!
+(Adapted from a [joint tutorial](https://rstd.io/pkg-dev) taught by Jenny Bryan, Jim Hester, and Hadley Wickham)
 
 ## Pre-work
 
 Recommended pre-workshop prep = [Prepare your system](https://r-pkgs.org/intro.html#intro-prep) section from the R Packages book
 
-  * If attempting prep in real-time, this *might* be enough:
-    ``` r
-    install.packages(c("devtools", "roxygen2", "testthat", "covr", "knitr"))
-    ```
+```{r}
+install.packages(c(
+  "devtools", "roxygen2",
+  "testthat", "covr" 
+))
+usethis::use_course("http://bit.ly/30kL8QD")
+```
 
 ## Agenda
 
-Intro & basic package workflow *Jenny Bryan*
+Intro & basic package workflow
 
-  * [slides](intro-basic-workflow.pdf)
+  * [slides](1-intro.pdf)
   * [foofactors2](https://github.com/jennybc/foofactors2) *what I made live*
   * [foofactors](https://github.com/jennybc/foofactors) *more fully developed version of this example*
 
-Testing *Jim Hester* - [slides](testing.pdf)
+Testing - [slides](2-testing.pdf)
 
-Documentation *Hadley Wickham*
-
-  * [slides](document-share.pdf)
-  * `usethis::use_course("hadley/fordogs")`
-
-## Instructors
-
-  * Jenny Bryan [jennybryan.org](https://jennybryan.org) \| GitHub [jennybc](https://github.com/jennybc) \| Twitter [jennybryan](https://twitter.com/jennybryan)
-  * Jim Hester [jimhester.com](https://www.jimhester.com) \| GitHub [jimhester](https://github.com/jimhester) \| Twitter [jimhester_](https://twitter.com/jimhester_)
-  * Hadley Wickham [hadley.nz](http://hadley.nz) \| GitHub [hadley](https://github.com/hadley) \| Twitter [hadleywickham](https://twitter.com/hadleywickahm)
+Documentation - [slides](3-share.pdf)
 
 ## Feedback and communication
 
-[Issues](https://github.com/jennybc/pkg-dev-tutorial/issues) <-- all are encouraged to open issues as we go. This is actually tremendously helpful to us! Examples of issue-worthy thoughts:
+[Issues](https://github.com/hadley/pkg-dev-tutorial/issues) <-- all are encouraged to open issues as we go. This is actually tremendously helpful to us! Examples of issue-worthy thoughts:
 
   * Glitches in the instructions or materials that we need to fix, for current tutorial or future
   * Missing content that we identify
