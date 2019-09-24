@@ -14,7 +14,7 @@ install.packages(c(
 usethis::use_course("http://bit.ly/30kL8QD")
 ```
 
-For further pacakge development, I recommend [_Prepare your system_](https://r-pkgs.org/intro.html#intro-prep) from R Packages.
+For further pacakge development, I recommend [_System setup_](https://r-pkgs.org/setup.html) from R Packages.
 
 ## Agenda
 
