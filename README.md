@@ -10,7 +10,7 @@ Agenda for:
 
 ## Pre-work
 
-Recommended pre-workshop prep = [Prepare your system](https://r-pkgs.org/intro.html#intro-prep) section from the R Packages book
+Recommended pre-workshop prep = [System setup](https://r-pkgs.org/setup.html) section from the R Packages book
 
   * If attempting prep in real-time, this *might* be enough:
     ``` r
